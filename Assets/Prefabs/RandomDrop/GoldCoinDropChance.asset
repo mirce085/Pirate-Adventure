@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c53e24a257c29441a97fe9834a5fd83, type: 3}
+  m_Name: GoldCoinDropChance
+  m_EditorClassIdentifier: 
+  Object: {fileID: 3164610886430901730, guid: 5ea3d32cf24ffde40bbc47590735e26f, type: 3}
+  DropChance: 80

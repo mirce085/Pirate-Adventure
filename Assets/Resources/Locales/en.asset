@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b814902149d25c44b9bd306ff0cd9a3, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/1AE7mDkfbtbcxJYop1PpbPbYpuKaRnGWWUi57xJK6VvU/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_title
+    Value: "menu\r"
+  - Key: button_start
+    Value: "start\r"
+  - Key: button_options
+    Value: "options\r"
+  - Key: button_exit
+    Value: "exit\r"
+  - Key: selected_language
+    Value: "Selected language is {0}\r"
+  - Key: button_languages
+    Value: "languages\r"
+  - Key: scene1_crabby_dialog1
+    Value: "Give me 10 coins and i will show you something.Give me 10 coins and i
+      will show you something.\r"
+  - Key: scene1_crabby_dialog2
+    Value: Ha ha loser!
