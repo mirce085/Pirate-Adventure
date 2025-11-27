@@ -2,9 +2,6 @@
 
 A thrilling 2D pirate-themed platformer built in Unity.  Embark on an epic journey across mysterious islands, battle dangerous enemies, and discover hidden treasures in this action-packed adventure game.
 
-![C#](https://img.shields.io/badge/C%23-100%25-239120)
-![Unity](https://img. shields.io/badge/Unity-2D-000000? logo=unity)
-![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Mobile-blue)
 
 ## 🎮 Game Features
 
